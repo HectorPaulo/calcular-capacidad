@@ -1,0 +1,10 @@
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\bin\Debug\CalcularCapacidad.exe.config
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\bin\Debug\CalcularCapacidad.exe
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\bin\Debug\CalcularCapacidad.pdb
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.CalcularCapacidad.resources
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.Properties.Resources.resources
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.csproj.GenerateResource.cache
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.exe
+C:\Users\paulo\OneDrive\Documentos\c#\CalcularCapacidad\obj\Debug\CalcularCapacidad.pdb
